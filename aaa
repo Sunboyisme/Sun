@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>我们的小家</title>
+    <style>  
+      body {
+        margin: 0;
+      }
+    </style>
+  </head>
+  <body>
+     <div style="
+       background-color: #f1f1f1;
+       text-align: center;
+       padding: 10px
+     " >
+       <img src="https://www.bing.com/th/id/OIP.OY9JErRSYMyiTrPsmzfnEQHaEK?w=281&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7" alt='李阿阳和覃阿涛' width="px" height="100px">
+     </div>
+     <div style="
+       max-width: 700px;
+       margin: 30px auto;
+       padding: 15px;
+       line-height: 1.7;
+     ">
+       <p>于2022年10月1日相识</p>
+       <p>在2023年2月25日在一起，经过了长时间的暧昧期</p
+       <p>逐渐变得越来越成熟</p>
+       <p>遇到问题总会一起解决</p>
+       <p>期待我们的未来</p>
+       <p>将于2026年8月11日结结婚</p>
+     </div>
+     <div style="
+       background-color: #f1f1f1;
+       text-align: center;
+       padding: 40px;
+       
+    " >
+      <p>我们的小家</p>
+     </div>
+  </body>
+</html>
